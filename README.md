@@ -1,6 +1,15 @@
-# MOSAIC
+<div align="center">
 
-**MOSAIC** (Multimodal Optical Slide Analysis Including Comparisons) is a framework for training and inferencing vision-language models for computational pathology. The code has been released as part of the paper "Pathology Report Generation and Multimodal Representation Learning for Cutaneous Melanocytic Lesions" by Lucassen et al. (2025). The exact version of the code used in the paper is available in the `0.1.0` tag. Please note that this repository contains more content than described in the associated paper. Specifically, there are additional model definitions based on HIPT, including 'attention' model configurations that can be used with features extracted using HIPT.
+# Pathology Report Generation and Multimodal Representation Learning for Cutaneous Melanocytic Lesions
+
+Ruben T. Lucassen*, Sander P. J. Moonemans*, Tijn van de Luijtgaarden, Gerben E. Breimer, Willeke A. M. Blokx & Mitko Veta
+
+*Accepted at the MICCAI 2025*
+
+[[`arXiv`](https://arxiv.org/abs/2502.19293)] [[`MICCAI`](https://papers.miccai.org/miccai-2025/0672-Paper2599.html)] [[`MICCAI Poster`](https://github.com/RTLucassen/report_generation_CoCa/blob/main/.github/poster.pdf)]
+
+  <img width="100%" alt="Overview" src=".github/overview.png">
+</div>
 
 ## Table of Contents
 
@@ -255,5 +264,3 @@ For questions or support, please contact:
 - Sander Moonemans: <sander.moonemans@gmail.com>
 
 ---
-
-*This work was developed as part of research into computational pathology and vision-language models for medical image analysis.*
